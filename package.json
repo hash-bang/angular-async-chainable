@@ -1,0 +1,35 @@
+{
+  "name": "angular-async-chainable",
+  "version": "1.7.14",
+  "description": "Pre-built async-chainable NPM repo suitable for use within regular JavaScript or AngularJS on the frontend",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hash-bang/angular-async-chainable"
+  },
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "async",
+    "async-chainable",
+    "chain",
+    "parallel",
+    "series"
+  ],
+  "author": "Matt Carter <m@ttcarter.com>",
+  "bugs": {
+    "url": "https://github.com/hash-bang/angular-async-chainable/issues"
+  },
+  "homepage": "https://github.com/hash-bang/angular-async-chainable",
+  "devDependencies": {
+    "async-chainable": "^1.7.14",
+    "browserify": "^11.0.1",
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.6",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

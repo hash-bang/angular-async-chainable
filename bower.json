@@ -1,0 +1,22 @@
+{
+  "name": "angular-async-chainable",
+  "version": "1.0.0",
+  "authors": [
+    "Matt Carter <m@ttcarter.com>"
+  ],
+  "description": "Pre-built async-chainable NPM repo suitable for use within regular JavaScript or AngularJS on the frontend",
+  "main": "async-chainable.js",
+  "keywords": [
+    "angular",
+    "async",
+    "async-chainable",
+    "chain",
+    "parallel",
+    "series"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hash-bang/angular-async-chainable",
+  "dependencies": {
+    "angular": "~1.4.1"
+  }
+}
