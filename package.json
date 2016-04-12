@@ -1,6 +1,6 @@
 {
   "name": "angular-async-chainable",
-  "version": "1.7.15",
+  "version": "1.0.1",
   "description": "Pre-built async-chainable NPM repo suitable for use within regular JavaScript or AngularJS on the frontend",
   "main": "async-chainable.js",
   "repository": {

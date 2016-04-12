@@ -8,7 +8,7 @@ var source = require('vinyl-source-stream');
 gulp.task('default', ['build']);
 
 gulp.task('build', function () {
-	return browserify('./node_modules/async-chainable/index.js', {
+	return browserify(['./node_modules/async-chainable/index.js', './lib/angular-async-chainable.js'], {
 		standalone: 'asyncChainable',
 		debug: true,
 	}).bundle()
